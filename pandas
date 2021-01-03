@@ -1,0 +1,9 @@
+s = pd.Series([1,2,3,4,].index = list('abcd'))
+
+s
+
+s.values
+
+s.index
+
+s.shape, s.ndim, s.size
